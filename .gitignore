@@ -1,3 +1,4 @@
 .DS_Store
 *.swp
 *.pyc
+django_autotest.egg-info/
